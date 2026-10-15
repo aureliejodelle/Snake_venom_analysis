@@ -14,7 +14,6 @@ const INPUT_ROOT   = get(ENV, "CA_INPUT_ROOT", normpath(joinpath(SCRIPT_DIR, "..
 const SSBONDS_ROOT = get(ENV, "SS_ROOT",       normpath(joinpath(SCRIPT_DIR, "../ss_bonds_ca")))
 const OUTPUT_ROOT  = get(ENV, "H1_OUTPUT_ROOT", normpath(joinpath(SCRIPT_DIR, "../h1_bars_ca")))
 const STAPLE       = 1e-4
-const THRESH       = 12.0   # max filtration
 
 # Fix long protein filenames.
 lp(p::AbstractString) = (Sys.iswindows() && !startswith(p, "\\\\?\\")) ? "\\\\?\\" * abspath(p) : p
@@ -43,7 +42,7 @@ function process_protein(input_file, cls, out_std_dir, out_aug_dir)::Bool
         pts = Matrix{Float64}(CSV.read(lp(input_file), DataFrame))
         D = pairwise(Euclidean(), pts; dims=1)
 
-        PH_s = ripserer(D; dim_max=1, threshold=THRESH)
+        PH_s = ripserer(D; dim_max=1, alg=:involuted)
         open(lp(out_std), "w") do io; JSON.print(io, OrderedDict(:dim_1 => h1_bars(PH_s))); end
 
         Da = copy(D)
@@ -52,7 +51,7 @@ function process_protein(input_file, cls, out_std_dir, out_aug_dir)::Bool
                 Da[i+1, j+1] = STAPLE; Da[j+1, i+1] = STAPLE
             end
         end
-        PH_a = ripserer(Da; dim_max=1, threshold=THRESH)
+        PH_a = ripserer(Da; dim_max=1,alg=:involuted)
         open(lp(out_aug), "w") do io; JSON.print(io, OrderedDict(:dim_1 => h1_bars(PH_a))); end
         return true
     catch e
