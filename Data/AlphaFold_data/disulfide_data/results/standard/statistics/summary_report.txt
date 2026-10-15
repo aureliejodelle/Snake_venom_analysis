@@ -1,0 +1,55 @@
+=================================================================
+STATISTICAL ANALYSIS - SNAKE VENOM MODE
+=================================================================
+Generated : 2026-09-07 16:24:35
+Classes   : 6
+  3ft                                           n=90
+  PLA                                           n=218
+  SNMP                                          n=298
+  kallikrein                                    n=56
+  kunitz                                        n=23
+  serine                                        n=104
+Features  : 5
+
+─────────────────────────────────────────────────────────────────
+KRUSKAL-WALLIS TEST  (are any classes different?)
+─────────────────────────────────────────────────────────────────
+Features tested : 5  (FDR-BH corrected)
+Significant     : 5
+
+Feature                               H      p-value        p-FDR   sig
+----------------------------------------------------------------------
+H1 Bar Count                     628.19    1.64e-133    8.19e-133  ***
+Mean Persistence                 543.52    3.22e-115    8.04e-115  ***
+Median Persistence               527.70    8.35e-112    1.39e-111  ***
+Mean Curvature                   328.42     7.74e-69     9.67e-69  ***
+Median Curvature                 237.13     3.17e-49     3.17e-49  ***
+
+─────────────────────────────────────────────────────────────────
+MANN-WHITNEY U  (top 20 pairwise comparisons by p_fdr)
+─────────────────────────────────────────────────────────────────
+Total tests     : 75  (FDR-BH corrected)
+Significant     : 69
+
+Feature                Group1               Group2                 delta      p_fdr
+----------------------------------------------------------------------------------
+H1 Bar Count           PLA                  SNMP                  +0.972   1.47e-77
+Mean Persistence       PLA                  SNMP                  +0.969   2.55e-77
+Median Persistence     PLA                  SNMP                  +0.966   4.08e-77
+Mean Persistence       PLA                  serine                +0.997   3.60e-46
+H1 Bar Count           3ft                  SNMP                  +1.000   9.79e-46
+Median Persistence     PLA                  serine                +0.987   2.17e-45
+H1 Bar Count           PLA                  serine                +0.983   3.60e-45
+Median Persistence     3ft                  PLA                   -0.963   2.43e-39
+Mean Curvature         3ft                  SNMP                  -0.897   3.87e-37
+H1 Bar Count           3ft                  PLA                   +0.923   2.33e-36
+Median Curvature       3ft                  SNMP                  -0.847   9.63e-34
+H1 Bar Count           3ft                  serine                +1.000   1.97e-32
+H1 Bar Count           kallikrein           PLA                   -1.000   3.92e-30
+Mean Persistence       kallikrein           PLA                   -1.000   3.92e-30
+Median Persistence     kallikrein           PLA                   -1.000   3.92e-30
+Mean Curvature         3ft                  serine                -0.962   3.92e-30
+Median Curvature       3ft                  PLA                   -0.812   1.43e-28
+Mean Curvature         3ft                  PLA                   -0.802   7.07e-28
+Mean Persistence       serine               SNMP                  -0.716   6.33e-27
+H1 Bar Count           kallikrein           SNMP                  +0.883   3.87e-25
