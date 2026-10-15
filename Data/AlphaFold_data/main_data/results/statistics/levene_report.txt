@@ -1,0 +1,92 @@
+========================================================================
+LEVENE VARIANCE-HOMOGENEITY TEST — SIX SNAKE-VENOM FAMILIES
+========================================================================
+Generated : 2026-09-09 09:08:36
+Input     : E:\Document\phd\phd\Snake_venom_analysis\features\protein_features.csv
+Test      : Levene, center='median' (Brown-Forsythe); FDR-BH, alpha=0.05
+H0        : all groups have equal variance
+
+Families included (n proteins):
+    SNMP           298
+    PLA            218
+    serine         104
+    3ft            90
+    kallikrein     56
+    kunitz         23
+Excluded from the six-family study: bungarotoxin, ctypelectin, hyluranidase
+Features tested: 20
+
+------------------------------------------------------------------------
+OMNIBUS (all six families) — per feature
+------------------------------------------------------------------------
+  Significant: 19/20
+
+  Feature                       stat           p       p_fdr   sig
+  --------------------------------------------------------------
+  N Negative Curvature       149.555   2.08e-111   4.16e-110  ****
+  H1 Bar Count               140.255   3.48e-106   2.05e-105  ****
+  HG Hyperedges              140.255   3.48e-106   2.05e-105  ****
+  Sum Persistence            140.128   4.10e-106   2.05e-105  ****
+  HG Nodes                   134.568   6.54e-103   2.62e-102  ****
+  Min Curvature              105.854    2.40e-85    8.00e-85  ****
+  Sum Curvature               95.388    1.81e-78    5.18e-78  ****
+  HG Max Edge Size            85.470    1.10e-71    2.75e-71  ****
+  Max Persistence             60.726    1.67e-53    3.71e-53  ****
+  Std Curvature               57.426    6.28e-51    1.26e-50  ****
+  Median Persistence          47.445    6.69e-43    1.22e-42  ****
+  N Positive Curvature        29.730    1.06e-27    1.77e-27  ****
+  Std Persistence             29.600    1.39e-27    2.14e-27  ****
+  Mean Curvature              21.965    1.25e-20    1.79e-20  ****
+  HG Density                   9.445    9.32e-09    1.24e-08  ****
+  Mean Persistence             6.219    1.15e-05    1.43e-05  ****
+  HG Avg Edge Size             5.780    2.99e-05    3.52e-05  ****
+  HG Connectivity              4.520    4.55e-04    5.06e-04   ***
+  Max Curvature                2.628    2.28e-02    2.41e-02     *
+  Median Curvature             1.732    1.25e-01    1.25e-01    ns
+
+------------------------------------------------------------------------
+PAIRWISE — serine vs kallikrein (the merge question)
+------------------------------------------------------------------------
+  Features where serine/kallikrein variance DIFFERS (FDR<0.05): 14/20
+
+  Feature                    std_ser   std_kal       p_fdr   sig
+  --------------------------------------------------------------
+  N Negative Curvature        481.17     22.62    2.08e-18  ****
+  Sum Persistence             344.22     14.08    4.00e-18  ****
+  H1 Bar Count                495.13     25.40    3.07e-17  ****
+  HG Hyperedges               495.13     25.40    3.07e-17  ****
+  HG Nodes                   1494.94     50.19    4.05e-17  ****
+  N Positive Curvature         18.89      4.37    1.69e-11  ****
+  HG Max Edge Size            325.94     55.12    1.26e-09  ****
+  Max Persistence               7.39      0.36    1.79e-09  ****
+  Sum Curvature             42615.68   9503.68    2.50e-09  ****
+  Std Persistence               0.16      0.01    1.17e-07  ****
+  HG Density                    0.00      0.00    1.64e-06  ****
+  HG Connectivity               0.02      0.01    1.62e-05  ****
+  Min Curvature              1465.92    601.86    1.63e-05  ****
+  Mean Persistence              0.03      0.01    7.08e-05  ****
+  Median Persistence            0.03      0.02    6.42e-02    ns
+  Median Curvature              2.82      2.41    2.98e-01    ns
+  Max Curvature                 4.61      2.07    4.87e-01    ns
+  Mean Curvature               14.98     15.69    5.74e-01    ns
+  Std Curvature                67.48     70.70    6.29e-01    ns
+  HG Avg Edge Size              1.09      1.04    6.93e-01    ns
+
+------------------------------------------------------------------------
+PAIRWISE — count of feature-pairs with unequal variance, per family pair
+------------------------------------------------------------------------
+  SNMP         vs PLA          : 17/20 features differ
+  SNMP         vs serine       : 13/20 features differ
+  SNMP         vs 3ft          : 18/20 features differ
+  SNMP         vs kallikrein   : 13/20 features differ
+  SNMP         vs kunitz       : 11/20 features differ
+  PLA          vs serine       : 14/20 features differ
+  PLA          vs 3ft          : 17/20 features differ
+  PLA          vs kallikrein   : 12/20 features differ
+  PLA          vs kunitz       :  1/20 features differ
+  serine       vs 3ft          : 18/20 features differ
+  serine       vs kallikrein   : 14/20 features differ
+  serine       vs kunitz       : 13/20 features differ
+  3ft          vs kallikrein   : 15/20 features differ
+  3ft          vs kunitz       : 10/20 features differ
+  kallikrein   vs kunitz       : 10/20 features differ

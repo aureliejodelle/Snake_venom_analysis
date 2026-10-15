@@ -1,0 +1,74 @@
+{
+  "3ft": {
+    "n_proteins": 90,
+    "mean_hyperedges": 125.04444444444445,
+    "median_hyperedges": 120.5,
+    "stdev_hyperedges": 15.051903542399144,
+    "min_hyperedges": 99,
+    "max_hyperedges": 151
+  },
+  "bungarotoxin": {
+    "n_proteins": 10,
+    "mean_hyperedges": 284.2,
+    "median_hyperedges": 284.5,
+    "stdev_hyperedges": 17.35767521556066,
+    "min_hyperedges": 247,
+    "max_hyperedges": 306
+  },
+  "ctypelectin": {
+    "n_proteins": 7,
+    "mean_hyperedges": 1714.7142857142858,
+    "median_hyperedges": 2026,
+    "stdev_hyperedges": 667.5481791066255,
+    "min_hyperedges": 876,
+    "max_hyperedges": 2505
+  },
+  "hyluranidase": {
+    "n_proteins": 2,
+    "mean_hyperedges": 1245,
+    "median_hyperedges": 1245.0,
+    "stdev_hyperedges": 80.61017305526642,
+    "min_hyperedges": 1188,
+    "max_hyperedges": 1302
+  },
+  "kallikrein": {
+    "n_proteins": 62,
+    "mean_hyperedges": 609.3870967741935,
+    "median_hyperedges": 612.0,
+    "stdev_hyperedges": 156.1612612106745,
+    "min_hyperedges": 83,
+    "max_hyperedges": 1278
+  },
+  "kunitz": {
+    "n_proteins": 25,
+    "mean_hyperedges": 223.68,
+    "median_hyperedges": 122,
+    "stdev_hyperedges": 263.3574440438951,
+    "min_hyperedges": 98,
+    "max_hyperedges": 1071
+  },
+  "PLA": {
+    "n_proteins": 218,
+    "mean_hyperedges": 261.1788990825688,
+    "median_hyperedges": 277.5,
+    "stdev_hyperedges": 52.33893542091181,
+    "min_hyperedges": 77,
+    "max_hyperedges": 318
+  },
+  "serine": {
+    "n_proteins": 106,
+    "mean_hyperedges": 1236.4150943396226,
+    "median_hyperedges": 1158.0,
+    "stdev_hyperedges": 516.0006250997418,
+    "min_hyperedges": 22,
+    "max_hyperedges": 2465
+  },
+  "SNMP": {
+    "n_proteins": 302,
+    "mean_hyperedges": 1156.2549668874171,
+    "median_hyperedges": 1242.5,
+    "stdev_hyperedges": 367.4565328670544,
+    "min_hyperedges": 90,
+    "max_hyperedges": 2710
+  }
+}

@@ -1,0 +1,24 @@
+====================================================================
+FULL-BARCODE PROTEIN-LEVEL W2 -> BETWEEN-FAMILY 6x6
+====================================================================
+Proteins            : 803   H1 bars total: 591,814 (mean 737/protein, NO truncation)
+Distance            : W2 (order 2), Euclidean (L2) ground metric
+Solver              : Hera, delta=0.01
+
+6 x 6 between-family W2 (diagonal = within-family spread):
+                      SVMP     PLA$_2$      serine        3FTx  kallikrein      kunitz
+  SVMP             10.0103     16.0274     13.5089     18.2073     12.1838     17.5896
+  PLA$_2$          16.0274      3.4226     18.5466      4.8482      8.4756      5.8427
+  serine           13.5089     18.5466     15.4434     20.5033     14.9496     19.7730
+  3FTx             18.2073      4.8482     20.5033      1.9447     10.5134      4.6485
+  kallikrein       12.1838      8.4756     14.9496     10.5134      4.5992     10.7735
+  kunitz           17.5896      5.8427     19.7730      4.6485     10.7735      5.8148
+
+Significance on the full 803x803 matrix (label permutation):
+  PERMANOVA        pseudo-F=189.21  R2=0.5428  p=0.001 (**)
+  PERMDISP         F=118.61  p=0.001  (heterogeneous spread)
+  Mantel (class)   r=0.3609  p=0.001
+  Partial Mantel   r(class|size)=0.0098  p=0.192
+  Mantel (size)    r=0.9372
+  Var. partition   class-unique R2=0.0000  size-unique R2=0.7481
+  NN same-class    topology=90.7%  size-only=82.1%  chance=25.1%
