@@ -1,0 +1,55 @@
+Protein_ID,Family,PDB_entity,identity,coverage,Organism,Protein_names
+SV00819,3ft,2CDX_1,1.0,1.0,Naja kaouthia (Monocled cobra) (Naja siamensis),Cytotoxin 1 (CTX1) (CX1) (Cardiotoxin F8) (Ca
+SV00853,3ft,1CHV_1,1.0,1.0,Naja atra (Chinese cobra),Cytotoxin 5 (Cardiotoxin A4b) (CTX-A4b) (Card
+SV00852,3ft,1CB9_1,1.0,1.0,Naja oxiana (Central Asian cobra) (Oxus cobra),Cytotoxin 2 (Cytotoxin II) (CTII)
+SV00854,3ft,1CXN_1,1.0,1.0,Naja pallida (Red spitting cobra),Cytotoxin 1 (CTX-1) (Cardiotoxin gamma)
+SV00855,3ft,1RL5_1,1.0,1.0,Naja oxiana (Central Asian cobra) (Oxus cobra),Cytotoxin 1 (Cytotoxin I) (CTI)
+SV00858,3ft,2CCX_1,1.0,1.0,Naja mossambica (Mozambique spitting cobra),Cytotoxin 1 (CTX M1) (Cardiotoxin IIB) (CTX-I
+SV00856,3ft,1CDT_1,1.0,1.0,Naja mossambica (Mozambique spitting cobra),Cytotoxin 4 (CTX M3) (Cardiotoxin VII4) (Cyto
+SV00860,3ft,7O2K_1,1.0,1.0,Naja kaouthia (Monocled cobra) (Naja siamensis),Cytotoxin 2 (CX2) (Toxin CM-7A)
+SV00859,3ft,6RC7_1,1.0,1.0,Naja kaouthia (Monocled cobra) (Naja siamensis),Cytotoxin 3 (CX3) (Toxin CM-7)
+SV00867,3ft,1CVO_1,1.0,1.0,Naja naja (Indian cobra),Cytotoxin-like basic protein (CLBP) (Less-cyt
+SV00869,3ft,3VTS_1,1.0,1.0,Hemachatus haemachatus (Rinkhals) (Sepedon haemachatus),Three-finger hemachatoxin
+SV00613,3ft,7ULQ_1,1.0,0.774,Ophiophagus hannah (King cobra) (Naja hannah),Alpha-elapitoxin-Oh3a (CM-11) (Long neurotoxi
+SV00647,3ft,1CVO_1,1.0,0.747,Naja atra (Chinese cobra),Cardiotoxin 7'' (Cardiotoxin 7') (Cardiotoxin
+SV00614,3ft,1H0J_1,1.0,0.741,Naja kaouthia (Monocled cobra) (Naja siamensis),Cytotoxin 4 (Cytotoxin IV) (Siamextin)
+SV00617,3ft,1CRE_1,1.0,0.741,Naja sputatrix (Malayan spitting cobra) (Naja naja sputatrix),Cytotoxin 5a (Cardiotoxin 5a) (CTX-5a) (Ctx5a
+SV00621,3ft,1H0J_1,1.0,0.741,Naja sputatrix (Malayan spitting cobra) (Naja naja sputatrix),Cytotoxin 3 (Cardiotoxin-3) (CTX-3) (Ctx3)
+SV00622,3ft,1CRE_1,1.0,0.741,Naja sputatrix (Malayan spitting cobra) (Naja naja sputatrix),Cytotoxin 5b (Cardiotoxin 5b) (CTX-5b) (Ctx5b
+SV00624,3ft,1H0J_1,1.0,0.741,Naja sputatrix (Malayan spitting cobra) (Naja naja sputatrix),Cytotoxin (CTX) (Cardiotoxin)
+SV00641,3ft,1H0J_1,1.0,0.741,Naja atra (Chinese cobra),Cytotoxin 3 (Cardiotoxin 3) (CTX-3) (CTX3) (C
+SV00644,3ft,1CRE_1,1.0,0.741,Naja atra (Chinese cobra),Cytotoxin 2 (Cardiotoxin 1A) (Cardiotoxin 2) 
+SV00643,3ft,2CDX_1,1.0,0.741,Naja atra (Chinese cobra),Cytotoxin 1 (CX1) (Cardiotoxin 1) (CTX-1) (CT
+SV00642,3ft,1UG4_1,1.0,0.741,Naja atra (Chinese cobra),Cytotoxin 6 (Cardiotoxin 6) (CTX6) (Cardiotox
+SV00645,3ft,1KBS_1,1.0,0.741,Naja atra (Chinese cobra),Cytotoxin 4 (CTX-4M) (CTX4) (Cardiotoxin A4) 
+SV00076,PLA,1AE7_1,1.0,1.0,Notechis scutatus scutatus (Mainland tiger snake) (Common tiger snake),Basic phospholipase A2 notexin (svPLA2) (EC 3
+SV00078,PLA,2NOT_1,1.0,1.0,Notechis scutatus scutatus (Mainland tiger snake) (Common tiger snake),Basic phospholipase A2 notechis II-5 (svPLA2)
+SV00079,PLA,3V9M_1,1.0,1.0,Pseudechis australis (Mulga snake) (King brown snake),Basic phospholipase A2 PA-11 (svPLA2) (EC 3.1
+SV00402,PLA,1YXH_1,1.0,1.0,Naja sagittifera (Andaman cobra),Acidic phospholipase A2 4 (svPLA2) (EC 3.1.1.
+SV00682,PLA,2QOG_2,1.0,1.0,Crotalus lutosus (Great basin rattlesnake) (Crotalus oreganus lutosus),Basic phospholipase A2 ColTx-1 (svPLA2) (EC 3
+SV00679,PLA,1U73_1,1.0,1.0,Bothrops leucurus (Whitetail lancehead),Acidic phospholipase A2 (svPLA2) (EC 3.1.1.4)
+SV00715,PLA,2QOG_2,1.0,1.0,Crotalus durissus ruruima (South American rattlesnake) (Mt. Roraima rattlesnake),Basic phospholipase A2 A (svPLA2) (EC 3.1.1.4
+SV00726,PLA,1CL5_1,1.0,1.0,Daboia russelii (Russel's viper) (Vipera russelii),Basic phospholipase A2 VRV-PL-VIIIa (svPLA2) 
+SV00727,PLA,3R0L_4,1.0,1.0,Crotalus durissus terrificus (South American rattlesnake),Phospholipase A2 crotoxin basic subunit CBb (
+SV00725,PLA,1JLT_2,1.0,1.0,Vipera ammodytes meridionalis (Eastern sand viper),Basic phospholipase A2 vipoxin B chain (svPLA
+SV00728,PLA,1VIP_1,1.0,1.0,Daboia russelii (Russel's viper) (Vipera russelii),Basic phospholipase A2 RVV-VD (svPLA2) (EC 3.
+SV00730,PLA,6TMY_1,1.0,1.0,Crotalus durissus terrificus (South American rattlesnake),Phospholipase A2 crotoxin basic subunit CBd (
+SV00734,PLA,1BK9_1,1.0,1.0,Gloydius halys (Chinese water mocassin) (Agkistrodon halys),Acidic phospholipase A2 (svPLA2) (EC 3.1.1.4)
+SV01605,PLA,2H4C_2,1.0,0.938,Daboia siamensis (Eastern Russel's viper) (Daboia russelii siamensis),Acidic phospholipase A2 daboiatoxin B chain (
+SV01864,PLA,1OZ6_1,1.0,0.882,Echis carinatus (Saw-scaled viper),Acidic phospholipase A2 EC-I (EC-I-PLA2) (svP
+SV01984,PLA,1MC2_1,1.0,0.872,Deinagkistrodon acutus (Hundred-pace snake) (Agkistrodon acutus),K49 phospholipase A2 (EC 3.1.1.4)
+SV00879,PLA,1PO8_1,1.0,0.861,Bungarus caeruleus (Indian krait),Acidic phospholipase A2 1 (svPLA2) (EC 3.1.1.
+SV00881,PLA,1G2X_1,1.0,0.861,Bungarus caeruleus (Indian krait),Basic phospholipase A2 3 (svPLA2) (EC 3.1.1.4
+SV00880,PLA,1G0Z_1,1.0,0.861,Bungarus caeruleus (Indian krait),Basic phospholipase A2 2 (svPLA2) (EC 3.1.1.4
+SV01810,PLA,1M8T_1,1.0,0.815,Ophiophagus hannah (King cobra) (Naja hannah),Acidic phospholipase A2 2 (svPLA2) (EC 3.1.1.
+SV00145,SNMP,6X5X_1,1.0,1.0,Bothrops moojeni (Lance-headed viper) (Caissaca),Snake venom metalloproteinase BmooMP-I (SVMP)
+SV00144,SNMP,1QUA_1,1.0,1.0,Deinagkistrodon acutus (Hundred-pace snake) (Agkistrodon acutus),Snake venom metalloproteinase acutolysin-C (S
+SV00149,SNMP,1WNI_1,1.0,1.0,Protobothrops flavoviridis (Habu) (Trimeresurus flavoviridis),Snake venom metalloproteinase trimerelysin-2 
+SV00159,SNMP,4J4M_1,1.0,1.0,Protobothrops mucrosquamatus (Taiwan habu) (Trimeresurus mucrosquamatus),Snake venom metalloproteinase TM-1 (SVMP) (EC
+SV01174,SNMP,2ERO_1,1.0,0.7,Crotalus atrox (Western diamondback rattlesnake),Zinc metalloproteinase-disintegrin-like VAP1 
+SV00958,SNMP,1DTH_1,1.0,0.49,Crotalus atrox (Western diamondback rattlesnake),Snake venom metalloproteinase atrolysin-D (SV
+SV03083,kallikrein,1OP0_1,1.0,0.907,Deinagkistrodon acutus (Hundred-pace snake) (Agkistrodon acutus),Snake venom serine protease Dav-PA (SVSP) (Aa
+SV03084,kallikrein,3S69_1,1.0,0.907,Gloydius intermedius (Central Asian pit viper) (Agkistrodon intermedius),Thrombin-like enzyme saxthrombin (SVTLE) (EC 
+SV03085,kallikrein,1BQY_1,1.0,0.907,Trimeresurus stejnegeri (Chinese green tree viper) (Viridovipera stejnegeri),Venom plasminogen activator TSV-PA (EC 3.4.21
+SV01838,kunitz,4NTW_3,1.0,0.799,Micrurus tener tener (Texas coral snake),Basic phospholipase A2 homolog MitTx-beta (sv
+SV01159,serine,5XRF_1,1.0,0.931,Deinagkistrodon acutus (Hundred-pace snake) (Agkistrodon acutus),Snake venom serine protease Da-36
