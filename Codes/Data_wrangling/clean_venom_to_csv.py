@@ -3,7 +3,7 @@ from __future__ import annotations
 Step 2:  clean_venom_to_csv
 
 Reads every PDB from organized_pdb/<type>/ (output of step 1),
-extracts ATOM x,y,z coordinates, and saves a matching CSV:
+extracts ATOM/HETATM x,y,z coordinates, and saves a matching CSV:
 
     clean_data/
         serine/
@@ -16,7 +16,7 @@ Each CSV: one row per atom, columns x, y, z.
 
 Usage:
     python clean_venom_to_csv.py                    # uses config defaults
-    python clean_venom_to_csv.py: input organized_pdb/  output clean_data
+    python clean_venom_to_csv.py: input organized_pdb/ ; output clean_data/
 """
 
 import argparse
@@ -39,7 +39,7 @@ except ImportError:
 # Core
 
 def extract_coordinates(pdb_path: Path) -> Optional[pd.DataFrame]:
-    """Parse ATOM records and return a DataFrame with x, y, z columns."""
+    """Parse ATOM/HETATM records and return a DataFrame with x, y, z columns."""
     x, y, z = [], [], []
     with pdb_path.open() as fh:
         for line in fh:
@@ -58,7 +58,8 @@ def extract_coordinates(pdb_path: Path) -> Optional[pd.DataFrame]:
 
 def clean(input_root: Path, output_root: Path) -> None:
     """
-    Walk input_root recursively, convert every .pdb to a .csv .
+    Walk input_root recursively, convert every .pdb to a .csv in the
+    mirrored location under output_root.
     """
     if not input_root.exists():
         raise FileNotFoundError(f"Input directory not found: {input_root}")
