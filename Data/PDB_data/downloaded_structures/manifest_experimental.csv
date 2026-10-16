@@ -1,0 +1,533 @@
+family,folder,pdb_id,entity_id,description,organism,ec,pfam,seq_len,method,resolution
+PLA2,Phospholipase_A2,1A2A,1A2A_1,PHOSPHOLIPASE A2,Gloydius halys,3.1.1.4,,122,X-RAY DIFFRACTION,2.8
+PLA2,Phospholipase_A2,1A3D,1A3D_1,PHOSPHOLIPASE A2,Naja naja,3.1.1.4,PF00068,119,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,1A3F,1A3F_1,PHOSPHOLIPASE A2,Naja naja,3.1.1.4,PF00068,119,X-RAY DIFFRACTION,2.65
+PLA2,Phospholipase_A2,1AE7,1AE7_1,PHOSPHOLIPASE A2,Notechis scutatus scutatus,3.1.1.4,,119,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1AOK,1AOK_1,VIPOXIN COMPLEX,Vipera ammodytes meridionalis,3.1.1.4,,122,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1AOK,1AOK_2,VIPOXIN COMPLEX,Vipera ammodytes meridionalis,3.1.1.4,,122,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1B4W,1B4W_1,PROTEIN (PHOSPHOLIPASE A2),Gloydius halys,3.1.1.4,,122,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1BJJ,1BJJ_1,AGKISTRODOTOXIN,Gloydius halys,3.1.1.4,,122,X-RAY DIFFRACTION,2.8
+PLA2,Phospholipase_A2,1BK9,1BK9_1,PHOSPHOLIPASE A2,Gloydius halys,3.1.1.4,,124,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1BUN,1BUN_1,BETA2-BUNGAROTOXIN,Bungarus multicinctus,3.1.1.4,,120,X-RAY DIFFRACTION,2.45
+PLA2,Phospholipase_A2,1C1J,1C1J_1,BASIC PHOSPHOLIPASE A2,Gloydius halys,3.1.1.4,,122,X-RAY DIFFRACTION,2.8
+PLA2,Phospholipase_A2,1CL5,1CL5_1,PROTEIN (PHOSPHOLIPASE A2),Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.45
+PLA2,Phospholipase_A2,1CLP,1CLP_1,MYOTOXIN II,Bothrops asper,3.1.1.4,,121,X-RAY DIFFRACTION,2.8
+PLA2,Phospholipase_A2,1DPY,1DPY_1,PHOSPHOLIPASE A2,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.45
+PLA2,Phospholipase_A2,1FB2,1FB2_1,PHOSPHOLIPASE A2,Daboia russelii pulchella,,,121,X-RAY DIFFRACTION,1.95
+PLA2,Phospholipase_A2,1FE5,1FE5_1,PHOSPHOLIPASE A2,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.45
+PLA2,Phospholipase_A2,1FV0,1FV0_1,PHOSPHOLIPASE A2,Daboia russelii pulchella,,,121,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,1G0Z,1G0Z_1,PHOSPHOLIPASE A2,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.18
+PLA2,Phospholipase_A2,1G2X,1G2X_1,PHOSPHOLIPASE A2,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.5
+PLA2,Phospholipase_A2,1GMZ,1GMZ_1,PHOSPHOLIPASE A2,Bothrops pirajai,3.1.1.4,,122,X-RAY DIFFRACTION,2.4
+PLA2,Phospholipase_A2,1GOD,1GOD_1,PROTEIN (PHOSPHOLIPASE A2),Cerrophidion godmani,3.1.1.4,,121,X-RAY DIFFRACTION,2.8
+PLA2,Phospholipase_A2,1GP7,1GP7_1,PHOSPHOLIPASE A2,Ophiophagus hannah,3.1.1.4,,151,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1IJL,1IJL_1,PHOSPHOLIPASE A2,Deinagkistrodon acutus,3.1.1.4,,123,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1JIA,1JIA_1,PHOSPHOLIPASE A2,Gloydius halys,3.1.1.4,,122,X-RAY DIFFRACTION,2.13
+PLA2,Phospholipase_A2,1JLT,1JLT_1,PHOSPHOLIPASE A2 INHIBITOR,Vipera ammodytes ammodytes,,,122,X-RAY DIFFRACTION,1.4
+PLA2,Phospholipase_A2,1JLT,1JLT_2,PHOSPHOLIPASE A2,Vipera ammodytes ammodytes,3.1.1.4,,122,X-RAY DIFFRACTION,1.4
+PLA2,Phospholipase_A2,1JQ8,1JQ8_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1JQ9,1JQ9_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,1KPM,1KPM_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,1LN8,1LN8_1,Phospholipase A2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.65
+PLA2,Phospholipase_A2,1M8R,1M8R_1,phospholipase A2,Gloydius halys,3.1.1.4,,124,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1M8S,1M8S_1,phospholipase a2,Gloydius halys,3.1.1.4,,124,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1M8T,1M8T_1,Phospholipase a2,Ophiophagus hannah,3.1.1.4,,119,X-RAY DIFFRACTION,2.1
+PLA2,Phospholipase_A2,1MC2,1MC2_1,Acutohaemonlysin,Deinagkistrodon acutus,,,122,X-RAY DIFFRACTION,0.85
+PLA2,Phospholipase_A2,1MF4,1MF4_1,Phospholipase A2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1MG6,1MG6_1,PHOSPHOLIPASE A2,Deinagkistrodon acutus,3.1.1.4,,122,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,1MH2,1MH2_1,PHOSPHOLIPASE A2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,1MH2,1MH2_2,PHOSPHOLIPASE A2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,1MH7,1MH7_1,PHOSPHOLIPASE A2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1MH8,1MH8_1,PHOSPHOLIPASE A2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.86
+PLA2,Phospholipase_A2,1OQS,1OQS_1,Phospholipase A2 RV-7,Daboia siamensis,3.1.1.4,,122,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1OQS,1OQS_2,Phospholipase A2 RV-4,Daboia siamensis,3.1.1.4,,122,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1OWS,1OWS_1,Phospholipase A2,Naja naja,3.1.1.4,PF00068,118,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1OWS,1OWS_2,Phospholipase A2,Naja naja,3.1.1.4,PF00068,118,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1OXL,1OXL_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,1OXR,1OXR_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.93
+PLA2,Phospholipase_A2,1OYF,1OYF_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.45
+PLA2,Phospholipase_A2,1OYF,1OYF_2,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.45
+PLA2,Phospholipase_A2,1OZ6,1OZ6_1,phospholipase A2,Echis carinatus,3.1.1.4,,120,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1OZY,1OZY_1,PHOSPHOLIPASE A2,Micropechis ikaheca,3.1.1.4,,121,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,1P7O,1P7O_1,PHOSPHOLIPASE A2,Micropechis ikaheca,3.1.1.4,,124,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1PA0,1PA0_1,Myotoxic phospholipase A2-like,Bothrops pauloensis,3.1.1.4,,121,X-RAY DIFFRACTION,2.2
+PLA2,Phospholipase_A2,1PC9,1PC9_1,BnSP-6,Bothrops pauloensis,3.1.1.4,,121,X-RAY DIFFRACTION,2.5
+PLA2,Phospholipase_A2,1PO8,1PO8_1,Phospholipase A2,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.71
+PLA2,Phospholipase_A2,1POA,1POA_1,PHOSPHOLIPASE A2,Naja atra,3.1.1.4,,118,X-RAY DIFFRACTION,1.5
+PLA2,Phospholipase_A2,1POB,1POB_1,PHOSPHOLIPASE A2,Naja atra,3.1.1.4,,118,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1PP2,1PP2_1,CALCIUM-FREE PHOSPHOLIPASE A2,Crotalus atrox,3.1.1.4,,122,X-RAY DIFFRACTION,2.5
+PLA2,Phospholipase_A2,1PPA,1PPA_1,PHOSPHOLIPASE A2,Agkistrodon piscivorus piscivorus,3.1.1.4,,121,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1PSH,1PSH_1,PHOSPHOLIPASE A2,Naja naja,3.1.1.4,PF00068,119,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1PSJ,1PSJ_1,PHOSPHOLIPASE A2,Gloydius halys,3.1.1.4,,124,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,1PWO,1PWO_1,Phospholipase A2,Micropechis ikaheca,3.1.1.4,,124,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1Q5T,1Q5T_1,Phospholipase A2 inhibitor,Vipera ammodytes meridionalis,,,122,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1Q6V,1Q6V_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.86
+PLA2,Phospholipase_A2,1Q7A,1Q7A_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,1QLL,1QLL_1,PHOSPHOLIPASE A2,Bothrops pirajai,3.1.1.4,,121,X-RAY DIFFRACTION,2.04
+PLA2,Phospholipase_A2,1RGB,1RGB_1,Phospholipase A2,Vipera ammodytes meridionalis,3.1.1.4,,122,X-RAY DIFFRACTION,3.3
+PLA2,Phospholipase_A2,1S6B,1S6B_1,Phospholipase A2 isoform 1,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,1S6B,1S6B_2,Phospholipase A2 isoform 2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,1S8G,1S8G_1,Phospholipase A2 homolog,Agkistrodon laticinctus,3.1.1.4,,121,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1S8H,1S8H_1,Phospholipase A2 homolog,Agkistrodon laticinctus,3.1.1.4,,121,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,1S8I,1S8I_1,Phospholipase A2 homolog,Agkistrodon laticinctus,3.1.1.4,,121,X-RAY DIFFRACTION,1.609
+PLA2,Phospholipase_A2,1SKG,1SKG_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.21
+PLA2,Phospholipase_A2,1SQZ,1SQZ_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.2
+PLA2,Phospholipase_A2,1SV3,1SV3_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.35
+PLA2,Phospholipase_A2,1SV9,1SV9_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,2.71
+PLA2,Phospholipase_A2,1SXK,1SXK_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.21
+PLA2,Phospholipase_A2,1SZ8,1SZ8_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.5
+PLA2,Phospholipase_A2,1T37,1T37_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1TC8,1TC8_1,phospholipase A2 isoform 1,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,1TD7,1TD7_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.5
+PLA2,Phospholipase_A2,1TDV,1TDV_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,1TG1,1TG1_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.25
+PLA2,Phospholipase_A2,1TG4,1TG4_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,1TGM,1TGM_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.86
+PLA2,Phospholipase_A2,1TH6,1TH6_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.23
+PLA2,Phospholipase_A2,1TJ9,1TJ9_1,Phospholipase A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.1
+PLA2,Phospholipase_A2,1TJK,1TJK_1,Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.25
+PLA2,Phospholipase_A2,1TK4,1TK4_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.1
+PLA2,Phospholipase_A2,1TP2,1TP2_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.4
+PLA2,Phospholipase_A2,1U4J,1U4J_1,phospholipase A2 isoform 2,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.18
+PLA2,Phospholipase_A2,1U73,1U73_1,hypotensive phospholipase A2,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,1UMV,1UMV_1,HYPOTENSIVE PHOSPHOLIPASE A2,Bothrops jararacussu,,,122,X-RAY DIFFRACTION,1.79
+PLA2,Phospholipase_A2,1VAP,1VAP_1,PHOSPHOLIPASE A2,Agkistrodon piscivorus piscivorus,3.1.1.4,,123,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,1VIP,1VIP_1,PHOSPHOLIPASE A2,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,2.2
+PLA2,Phospholipase_A2,1VPI,1VPI_1,PHOSPHOLIPASE A2 INHIBITOR,Vipera ammodytes,,,122,X-RAY DIFFRACTION,1.76
+PLA2,Phospholipase_A2,1XXS,1XXS_1,Phospholipase A2 homolog 2,Bothrops moojeni,3.1.1.4,,122,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,1XXW,1XXW_1,Phospholipase A2 isoform 1,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,1XXW,1XXW_2,Phospholipase A2 isoform 2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,1Y38,1Y38_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.44
+PLA2,Phospholipase_A2,1Y4L,1Y4L_1,Phospholipase A2 homolog 2,Bothrops asper,3.1.1.4,,121,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,1Y75,1Y75_1,phospholipase A2 isoform 5,Naja sagittifera,3.1.1.4,,118,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1Y75,1Y75_2,phospholipase A2 isoform 6,Naja sagittifera,3.1.1.4,,118,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,1YXH,1YXH_1,phospholipase A2,Naja sagittifera,3.1.1.4,,126,X-RAY DIFFRACTION,1.86
+PLA2,Phospholipase_A2,1YXL,1YXL_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.477
+PLA2,Phospholipase_A2,1Z76,1Z76_1,phospholipase A2,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,1.85
+PLA2,Phospholipase_A2,1ZL7,1ZL7_1,hypotensive phospholipase A2,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,1ZLB,1ZLB_1,hypotensive phospholipase A2,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,0.97
+PLA2,Phospholipase_A2,1ZM6,1ZM6_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,1ZR8,1ZR8_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.03
+PLA2,Phospholipase_A2,1ZWP,1ZWP_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.1
+PLA2,Phospholipase_A2,1ZYX,1ZYX_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.95
+PLA2,Phospholipase_A2,2AOZ,2AOZ_1,Phospholipase A2 homolog,Metlapilcoatlus nummifer,,,121,X-RAY DIFFRACTION,2.08
+PLA2,Phospholipase_A2,2ARM,2ARM_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.23
+PLA2,Phospholipase_A2,2B17,2B17_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.71
+PLA2,Phospholipase_A2,2DO2,2DO2_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,2DPZ,2DPZ_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.1
+PLA2,Phospholipase_A2,2FNX,2FNX_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,2G58,2G58_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,0.98
+PLA2,Phospholipase_A2,2GNS,2GNS_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,2H4C,2H4C_1,Phospholipase A2-III,Daboia siamensis,3.1.1.4,,122,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,2H4C,2H4C_2,Phospholipase A2-II,Daboia siamensis,3.1.1.4,,122,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,2H8I,2H8I_1,Phospholipase A2 homolog 1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,2I0U,2I0U_1,Basic subunit of heterodimer phospholipase A2,Vipera nikolskii,3.1.1.4,,122,X-RAY DIFFRACTION,2.2
+PLA2,Phospholipase_A2,2NOT,2NOT_1,PHOSPHOLIPASE A2,Notechis scutatus scutatus,3.1.1.4,,119,X-RAY DIFFRACTION,3.0
+PLA2,Phospholipase_A2,2O1N,2O1N_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.8
+PLA2,Phospholipase_A2,2OK9,2OK9_1,Phospholipase A2 homolog 1,Bothrops pirajai,3.1.1.4,,121,X-RAY DIFFRACTION,2.34
+PLA2,Phospholipase_A2,2OLI,2OLI_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.21
+PLA2,Phospholipase_A2,2OQD,2OQD_1,Phospholipase A2,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,2.19
+PLA2,Phospholipase_A2,2OSH,2OSH_1,Phospholipase A2 1,Naja atra,3.1.1.4,,119,X-RAY DIFFRACTION,2.2
+PLA2,Phospholipase_A2,2OSN,2OSN_1,Phospholipase A2 isoform 3,Bungarus caeruleus,3.1.1.4,,118,X-RAY DIFFRACTION,2.5
+PLA2,Phospholipase_A2,2OTF,2OTF_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.95
+PLA2,Phospholipase_A2,2OTH,2OTH_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.9
+PLA2,Phospholipase_A2,2OUB,2OUB_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.75
+PLA2,Phospholipase_A2,2OYF,2OYF_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.2
+PLA2,Phospholipase_A2,2PB8,2PB8_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,2PH4,2PH4_1,Zhaoermiatoxin,Protobothrops mangshanensis,,,121,X-RAY DIFFRACTION,2.05
+PLA2,Phospholipase_A2,2PMJ,2PMJ_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.4
+PLA2,Phospholipase_A2,2PVT,2PVT_1,phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.1
+PLA2,Phospholipase_A2,2PWS,2PWS_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.21
+PLA2,Phospholipase_A2,2PYC,2PYC_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.5
+PLA2,Phospholipase_A2,2Q1P,2Q1P_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.5
+PLA2,Phospholipase_A2,2Q2J,2Q2J_1,Phospholipase A2 homolog 1,Bothrops pirajai,,,121,X-RAY DIFFRACTION,1.65
+PLA2,Phospholipase_A2,2QHD,2QHD_1,Phospholipase A2,Echis carinatus,3.1.1.4,,122,X-RAY DIFFRACTION,1.95
+PLA2,Phospholipase_A2,2QHE,2QHE_1,Phospholipase A2,Echis carinatus,3.1.1.4,,122,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,2QHW,2QHW_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.21
+PLA2,Phospholipase_A2,2QOG,2QOG_1,Phospholipase A2 CB2,Crotalus durissus terrificus,3.1.1.4,,122,X-RAY DIFFRACTION,2.28
+PLA2,Phospholipase_A2,2QOG,2QOG_2,Phospholipase A2 CB1,Crotalus durissus terrificus,3.1.1.4,,122,X-RAY DIFFRACTION,2.28
+PLA2,Phospholipase_A2,2QU9,2QU9_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.08
+PLA2,Phospholipase_A2,2QUE,2QUE_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.25
+PLA2,Phospholipase_A2,2QVD,2QVD_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.93
+PLA2,Phospholipase_A2,2RD4,2RD4_1,Phospholipase A2 isoform 1,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.97
+PLA2,Phospholipase_A2,2RD4,2RD4_2,Phospholipase A2 isoform 2,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.97
+PLA2,Phospholipase_A2,2WQ5,2WQ5_1,"PHOSPHOLIPASE A2, ACIDIC",Naja naja,3.1.1.4,PF00068,119,X-RAY DIFFRACTION,1.65
+PLA2,Phospholipase_A2,2ZBH,2ZBH_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,3BJW,3BJW_1,Phospholipase A2,Echis carinatus,3.1.1.4,,122,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,3CBI,3CBI_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,3.15
+PLA2,Phospholipase_A2,3CXI,3CXI_1,Myotoxic phospholipase A2-like,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.83
+PLA2,Phospholipase_A2,3CYL,3CYL_1,Phospholipase A2 homolog 2,Bothrops pirajai,,,121,X-RAY DIFFRACTION,1.87
+PLA2,Phospholipase_A2,3DIH,3DIH_1,"Phospholipase A2 homolog, ammodytin L",Vipera ammodytes ammodytes,,,122,X-RAY DIFFRACTION,2.6
+PLA2,Phospholipase_A2,3FG5,3FG5_1,Group II Phospholipase A2,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.5
+PLA2,Phospholipase_A2,3FO7,3FO7_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.4
+PLA2,Phospholipase_A2,3G8F,3G8F_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.25
+PLA2,Phospholipase_A2,3G8G,3G8G_1,"Phospholipase A2, ammodytoxin A",Vipera ammodytes ammodytes,3.1.1.4,,122,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,3G8H,3G8H_1,"Phospholipase A2, ammodytoxin C",Vipera ammodytes ammodytes,3.1.1.4,,122,X-RAY DIFFRACTION,1.35
+PLA2,Phospholipase_A2,3GCI,3GCI_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.04
+PLA2,Phospholipase_A2,3H1X,3H1X_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii russelii,3.1.1.4,,121,X-RAY DIFFRACTION,1.4
+PLA2,Phospholipase_A2,3HZD,3HZD_1,Phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.91
+PLA2,Phospholipase_A2,3HZW,3HZW_1,Phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,2.28
+PLA2,Phospholipase_A2,3I03,3I03_1,Phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.48
+PLA2,Phospholipase_A2,3I3H,3I3H_1,Phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,2.17
+PLA2,Phospholipase_A2,3I3I,3I3I_1,Phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.82
+PLA2,Phospholipase_A2,3IQ3,3IQ3_1,Phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.55
+PLA2,Phospholipase_A2,3JQ5,3JQ5_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.03
+PLA2,Phospholipase_A2,3JQL,3JQL_1,Acidic phospholipase A2 3 (Fragment),Naja sagittifera,,,119,X-RAY DIFFRACTION,1.2
+PLA2,Phospholipase_A2,3JR8,3JR8_1,Phospholipase A2 bothropstoxin-2,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,2.1
+PLA2,Phospholipase_A2,3JTI,3JTI_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,3MLM,3MLM_1,BN-IV Lys-49 Phospholipase A2,Bothrops pauloensis,3.1.1.4,,121,X-RAY DIFFRACTION,2.21
+PLA2,Phospholipase_A2,3NJU,3NJU_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.4
+PLA2,Phospholipase_A2,3OSH,3OSH_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,1.5
+PLA2,Phospholipase_A2,3Q4Y,3Q4Y_1,Phospholipase A2 isoform 3,Naja sagittifera,3.1.1.4,,119,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,3QNL,3QNL_1,Phospholipase A2 homolog 1,Bothrops pirajai,,,121,X-RAY DIFFRACTION,1.77
+PLA2,Phospholipase_A2,3R0L,3R0L_1,Crotoxin chain A,Crotalus durissus terrificus,,,39,X-RAY DIFFRACTION,1.35
+PLA2,Phospholipase_A2,3R0L,3R0L_2,Crotoxin chain B,Crotalus durissus terrificus,,,35,X-RAY DIFFRACTION,1.35
+PLA2,Phospholipase_A2,3R0L,3R0L_3,Crotoxin chain C,Crotalus durissus terrificus,,,14,X-RAY DIFFRACTION,1.35
+PLA2,Phospholipase_A2,3R0L,3R0L_4,Phospholipase A2 CB,Crotalus durissus terrificus,3.1.1.4,,122,X-RAY DIFFRACTION,1.35
+PLA2,Phospholipase_A2,3T0R,3T0R_1,Phospholipase A2 homolog 1,Bothrops moojeni,3.1.1.4,,121,X-RAY DIFFRACTION,2.49
+PLA2,Phospholipase_A2,3UX7,3UX7_1,Ammodytin L(1) isoform,Vipera ammodytes meridionalis,,,122,X-RAY DIFFRACTION,2.97
+PLA2,Phospholipase_A2,3V9M,3V9M_1,Phospholipase A2 isozyme PA-11,Pseudechis australis,3.1.1.4,,118,X-RAY DIFFRACTION,1.563
+PLA2,Phospholipase_A2,3VBZ,3VBZ_1,"Phospholipase A2 homolog, taipoxin beta chain",Oxyuranus scutellatus scutellatus,3.1.1.4,,118,X-RAY DIFFRACTION,1.76
+PLA2,Phospholipase_A2,3VC0,3VC0_1,"Phospholipase A2 homolog, taipoxin beta chain",Oxyuranus scutellatus scutellatus,3.1.1.4,,118,X-RAY DIFFRACTION,2.15
+PLA2,Phospholipase_A2,4DCF,4DCF_1,MTX-II chain A,Bothrops brazili,,,122,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,4E4C,4E4C_1,Phospholipase A2,Notechis scutatus scutatus,3.1.1.4,,119,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,4EIX,4EIX_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.9
+PLA2,Phospholipase_A2,4FGA,4FGA_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.3
+PLA2,Phospholipase_A2,4GFY,4GFY_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.7
+PLA2,Phospholipase_A2,4GLD,4GLD_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.69
+PLA2,Phospholipase_A2,4H0S,4H0S_1,Basic phospholipase A2 homolog CTs-R6,Trimeresurus stejnegeri,3.1.1.4,,137,X-RAY DIFFRACTION,1.55
+PLA2,Phospholipase_A2,4HG9,4HG9_1,Basic phospholipase A2 B,Gloydius halys,3.1.1.4,,122,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,4HMB,4HMB_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.21
+PLA2,Phospholipase_A2,4K06,4K06_1,MTX-II,Bothrops brazili,,,121,X-RAY DIFFRACTION,2.08
+PLA2,Phospholipase_A2,4K09,4K09_1,BbTX-II,Bothrops brazili,,,121,X-RAY DIFFRACTION,2.107
+PLA2,Phospholipase_A2,4KF3,4KF3_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.92
+PLA2,Phospholipase_A2,4NTW,4NTW_3,Basic phospholipase A2 homolog Tx-beta,Micrurus tener tener,,,119,X-RAY DIFFRACTION,2.07
+PLA2,Phospholipase_A2,4NTX,4NTX_3,Basic phospholipase A2 homolog Tx-beta,Micrurus tener tener,,,119,X-RAY DIFFRACTION,2.27
+PLA2,Phospholipase_A2,4NTY,4NTY_3,Basic phospholipase A2 homolog Tx-beta,Micrurus tener tener,,,119,X-RAY DIFFRACTION,2.65
+PLA2,Phospholipase_A2,4QEM,4QEM_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.2
+PLA2,Phospholipase_A2,4QER,4QER_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.2
+PLA2,Phospholipase_A2,4QF7,4QF7_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.48
+PLA2,Phospholipase_A2,4QF8,4QF8_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.65
+PLA2,Phospholipase_A2,4QGD,4QGD_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,4QMC,4QMC_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,1.09
+PLA2,Phospholipase_A2,4RFP,4RFP_1,Acidic phospholipase A2 5,Trimeresurus stejnegeri,3.1.1.4,,121,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,4WTB,4WTB_1,Basic phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,2.16
+PLA2,Phospholipase_A2,4YU7,4YU7_1,Basic phospholipase A2 homolog piratoxin-1,Bothrops pirajai,,,121,X-RAY DIFFRACTION,1.647
+PLA2,Phospholipase_A2,4YV5,4YV5_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.9
+PLA2,Phospholipase_A2,4YZ7,4YZ7_1,Basic phospholipase A2 homolog piratoxin-1,Bothrops pirajai,,,121,X-RAY DIFFRACTION,1.9589
+PLA2,Phospholipase_A2,5TFV,5TFV_1,Basic phospholipase A2 myotoxin III,Bothrops asper,3.1.1.4,,122,X-RAY DIFFRACTION,2.54
+PLA2,Phospholipase_A2,5VET,5VET_1,Phospholipase A2 VRV-PL-VIIIa,Daboia russelii pulchella,3.1.1.4,,121,X-RAY DIFFRACTION,2.0
+PLA2,Phospholipase_A2,5VFH,5VFH_1,Basic phospholipase A2 homolog BnSP-7,Bothrops pauloensis,,,121,X-RAY DIFFRACTION,1.592
+PLA2,Phospholipase_A2,5VFJ,5VFJ_1,Basic phospholipase A2 homolog BnSP-7,Bothrops pauloensis,,,121,X-RAY DIFFRACTION,2.084
+PLA2,Phospholipase_A2,5VFM,5VFM_1,Basic phospholipase A2 homolog BnSP-7,Bothrops pauloensis,,,121,X-RAY DIFFRACTION,2.058
+PLA2,Phospholipase_A2,5VFN,5VFN_1,Basic phospholipase A2 homolog BnSP-7,Bothrops pauloensis,,,121,X-RAY DIFFRACTION,2.389
+PLA2,Phospholipase_A2,6AL3,6AL3_1,Basic phospholipase A2 BP-II,Protobothrops flavoviridis,3.1.1.4,,122,X-RAY DIFFRACTION,2.57
+PLA2,Phospholipase_A2,6B80,6B80_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.949
+PLA2,Phospholipase_A2,6B81,6B81_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.76
+PLA2,Phospholipase_A2,6B83,6B83_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,6B84,6B84_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.997
+PLA2,Phospholipase_A2,6CE2,6CE2_1,Basic phospholipase A2 homolog 1,Bothrops moojeni,,,121,X-RAY DIFFRACTION,2.15
+PLA2,Phospholipase_A2,6DIK,6DIK_1,Basic phospholipase A2 homolog bothropstoxin-1,Bothrops jararacussu,,,121,X-RAY DIFFRACTION,1.93
+PLA2,Phospholipase_A2,6MQD,6MQD_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.6
+PLA2,Phospholipase_A2,6MQF,6MQF_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.693
+PLA2,Phospholipase_A2,6PWH,6PWH_1,Basic phospholipase A2 homolog 2,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.749
+PLA2,Phospholipase_A2,6TMY,6TMY_1,Phospholipase A2 crotoxin basic subunit CBc,Crotalus durissus terrificus,3.1.1.4,,122,X-RAY DIFFRACTION,1.8
+PLA2,Phospholipase_A2,7LYE,7LYE_1,Basic phospholipase A2 homolog BomoTx,Bothrops moojeni,,,122,X-RAY DIFFRACTION,1.758
+PLA2,Phospholipase_A2,7M6C,7M6C_1,Basic phospholipase A2,Bothrops atrox,3.1.1.4,,138,X-RAY DIFFRACTION,1.95
+PLA2,Phospholipase_A2,7RJI,7RJI_1,BthTX-IIb,Bothrops jararacussu,3.1.1.4,,122,X-RAY DIFFRACTION,1.71
+PLA2,Phospholipase_A2,7RJZ,7RJZ_1,BthTX-IIa,Bothrops jararacussu,3.1.1.4,,121,X-RAY DIFFRACTION,1.7
+PLA2,Phospholipase_A2,7ROX,7ROX_1,Basic phospholipase A2 homolog bothropstoxin-I,Bothrops jararacussu,3.1.1.4,,121,X-RAY DIFFRACTION,2.1
+PLA2,Phospholipase_A2,8DND,8DND_1,Basic phospholipase A2 homolog piratoxin-1,Bothrops pirajai,,,121,X-RAY DIFFRACTION,2.018
+PLA2,Phospholipase_A2,8G4B,8G4B_1,Phospholipase A2 crotoxin basic subunit CBb,Crotalus durissus terrificus,3.1.1.4,,122,X-RAY DIFFRACTION,1.89
+PLA2,Phospholipase_A2,8G4B,8G4B_2,Phospholipase A2 crotoxin basic subunit CBd,Crotalus durissus terrificus,3.1.1.4,,122,X-RAY DIFFRACTION,1.89
+PLA2,Phospholipase_A2,9E4I,9E4I_3,Basic phospholipase A2 homolog MitTx-beta,Micrurus tener tener,,,119,ELECTRON MICROSCOPY,2.33
+PLA2,Phospholipase_A2,9E4J,9E4J_3,Basic phospholipase A2 homolog MitTx-beta,Micrurus tener tener,,,119,ELECTRON MICROSCOPY,2.87
+PLA2,Phospholipase_A2,9MLE,9MLE_1,Phospholipase A2,Lachesis muta,3.1.1.4,,122,X-RAY DIFFRACTION,2.36
+PLA2,Phospholipase_A2,9Z5Y,9Z5Y_1,Basic phospholipase A2 homolog piratoxin-1,Bothrops pirajai,,,121,X-RAY DIFFRACTION,2.75
+3FTx,Three_finger_toxin,1ABT,1ABT_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1B41,1B41_2,FASCICULIN-2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,2.76
+3FTx,Three_finger_toxin,1BXP,1BXP_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CB9,1CB9_1,PROTEIN (CYTOTOXIN 2),Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CCQ,1CCQ_1,PROTEIN (CYTOTOXIN 2),Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CDT,1CDT_1,CARDIOTOXIN VII4,Naja mossambica,,,60,X-RAY DIFFRACTION,2.5
+3FTx,Three_finger_toxin,1CHV,1CHV_1,PROTEIN (CARDIOTOXIN ANALOGUE V),Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1COD,1COD_1,COBROTOXIN,Naja atra,,PF21947,62,SOLUTION NMR,
+3FTx,Three_finger_toxin,1COE,1COE_1,COBROTOXIN,Naja atra,,,62,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CRE,1CRE_1,CARDIOTOXIN II,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CRF,1CRF_1,CARDIOTOXIN II,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CTX,1CTX_1,ALPHA-COBRATOXIN,Naja siamensis,,,71,X-RAY DIFFRACTION,2.8
+3FTx,Three_finger_toxin,1CVO,1CVO_1,CARDIOTOXIN V,Naja atra,,,62,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CXN,1CXN_1,CARDIOTOXIN GAMMA,Naja nigricollis,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1CXO,1CXO_1,CARDIOTOXIN GAMMA,Naja nigricollis,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1DRS,1DRS_1,DENDROASPIN,Dendroaspis jamesoni kaimosae,,,59,SOLUTION NMR,
+3FTx,Three_finger_toxin,1ERA,1ERA_1,ERABUTOXIN B,Laticauda semifasciata,,,62,SOLUTION NMR,
+3FTx,Three_finger_toxin,1F8U,1F8U_2,FASCICULIN II,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,2.9
+3FTx,Three_finger_toxin,1F94,1F94_1,BUCANDIN,Bungarus candidus,,,63,X-RAY DIFFRACTION,0.97
+3FTx,Three_finger_toxin,1FAS,1FAS_1,FASCICULIN 1,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,1FF4,1FF4_1,MUSCARINIC TOXIN/ACETYLCHOLINE RECEPTOR BINDING PROTEIN,Dendroaspis angusticeps,,,65,X-RAY DIFFRACTION,1.5
+3FTx,Three_finger_toxin,1FFJ,1FFJ_1,CYTOTOXIN 2,Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1FRA,1FRA_1,ERABUTOXIN B,Laticauda semifasciata,,,62,SOLUTION NMR,
+3FTx,Three_finger_toxin,1FSC,1FSC_1,FASCICULIN 2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,2.0
+3FTx,Three_finger_toxin,1FSS,1FSS_2,FASCICULIN II,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,3.0
+3FTx,Three_finger_toxin,1G6M,1G6M_1,SHORT NEUROTOXIN 1,Naja kaouthia,,,62,SOLUTION NMR,
+3FTx,Three_finger_toxin,1H0J,1H0J_1,CARDIOTOXIN-3,Naja atra,,,60,X-RAY DIFFRACTION,1.9
+3FTx,Three_finger_toxin,1HAA,1HAA_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1HAJ,1HAJ_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1HC9,1HC9_1,ALPHA-BUNGAROTOXIN ISOFORM V31,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,1HC9,1HC9_2,ALPHA-BUNGAROTOXIN ISOFORM A31,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,1HOY,1HOY_1,LONG NEUROTOXIN 1,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1I02,1I02_1,CARDIOTOXIN-3,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IDG,1IDG_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IDH,1IDH_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IDI,1IDI_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IDL,1IDL_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IJC,1IJC_1,bucandin,Bungarus candidus,,,63,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IK8,1IK8_1,LONG NEUROTOXIN 1,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IKC,1IKC_1,long neurotoxin 1,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1IQ9,1IQ9_1,alpha-neurotoxin,Naja nigricollis,,,61,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,1JBD,1JBD_1,LONG NEUROTOXIN 1,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1JE9,1JE9_1,SHORT NEUROTOXIN II,Naja kaouthia,,,61,SOLUTION NMR,
+3FTx,Three_finger_toxin,1JGK,1JGK_1,CANDOXIN,Bungarus candidus,,,66,SOLUTION NMR,
+3FTx,Three_finger_toxin,1KBA,1KBA_1,KAPPA-BUNGAROTOXIN,Bungarus multicinctus,,,66,X-RAY DIFFRACTION,2.3
+3FTx,Three_finger_toxin,1KBS,1KBS_1,CTX IV,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1KBT,1KBT_1,CTX IV,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1KC4,1KC4_1,alpha-bungarotoxin,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1KFH,1KFH_1,alpha-Bungarotoxin,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1KL8,1KL8_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1KU6,1KU6_2,FASCICULIN 2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,2.5
+3FTx,Three_finger_toxin,1KXI,1KXI_1,CARDIOTOXIN V,Naja atra,,,62,X-RAY DIFFRACTION,2.19
+3FTx,Three_finger_toxin,1L4W,1L4W_1,alpha-Bungarotoxin,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1LJZ,1LJZ_1,alpha-Bungarotoxin,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1LSI,1LSI_1,LSIII,Laticauda semifasciata,,,66,SOLUTION NMR,
+3FTx,Three_finger_toxin,1LXG,1LXG_1,Long neurotoxin 1,Naja kaouthia,,,71,SOLUTION NMR,
+3FTx,Three_finger_toxin,1LXH,1LXH_1,LONG NEUROTOXIN 1,Naja kaouthia,,,71,SOLUTION NMR,
+3FTx,Three_finger_toxin,1MAH,1MAH_2,FASCICULIN 2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,3.2
+3FTx,Three_finger_toxin,1MR6,1MR6_1,neurotoxin,Bungarus multicinctus,,,68,SOLUTION NMR,
+3FTx,Three_finger_toxin,1NEA,1NEA_1,TOXIN ALPHA,Naja nigricollis,,,61,SOLUTION NMR,
+3FTx,Three_finger_toxin,1NOR,1NOR_1,NEUROTOXIN II,Naja oxiana,,,61,SOLUTION NMR,
+3FTx,Three_finger_toxin,1NTN,1NTN_1,NEUROTOXIN I,Naja oxiana,,,72,X-RAY DIFFRACTION,1.9
+3FTx,Three_finger_toxin,1NTX,1NTX_1,ALPHA-NEUROTOXIN,Dendroaspis polylepis polylepis,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1NXB,1NXB_1,NEUROTOXIN B,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.38
+3FTx,Three_finger_toxin,1ONJ,1ONJ_1,Cobrotoxin b,Naja atra,,,61,X-RAY DIFFRACTION,1.555
+3FTx,Three_finger_toxin,1QKD,1QKD_1,ERABUTOXIN A,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.49
+3FTx,Three_finger_toxin,1QKE,1QKE_1,ERABUTOXIN A,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.5
+3FTx,Three_finger_toxin,1RGJ,1RGJ_1,long neurotoxin 1,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,1RL5,1RL5_1,Cytotoxin 1,Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1TFS,1TFS_1,TOXIN FS2,Dendroaspis polylepis polylepis,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,1TGX,1TGX_1,GAMMA-CARDIOTOXIN,Naja nigricollis,,,60,X-RAY DIFFRACTION,1.55
+3FTx,Three_finger_toxin,1TXA,1TXA_1,TOXIN B,Ophiophagus hannah,,,73,SOLUTION NMR,
+3FTx,Three_finger_toxin,1TXB,1TXB_1,TOXIN B,Ophiophagus hannah,,,73,SOLUTION NMR,
+3FTx,Three_finger_toxin,1UG4,1UG4_1,Cytotoxin 6,Naja atra,,,60,X-RAY DIFFRACTION,1.6
+3FTx,Three_finger_toxin,1V6P,1V6P_1,Cobrotoxin,Naja atra,,,62,X-RAY DIFFRACTION,0.87
+3FTx,Three_finger_toxin,1VB0,1VB0_1,Cobrotoxin b,Naja atra,,,61,X-RAY DIFFRACTION,0.92
+3FTx,Three_finger_toxin,1VYC,1VYC_1,BUCAIN,Bungarus candidus,,,65,SOLUTION NMR; THEORETICAL MODEL,
+3FTx,Three_finger_toxin,1W6B,1W6B_1,LONG NEUROTOXIN 1,Naja oxiana,,,73,SOLUTION NMR,
+3FTx,Three_finger_toxin,1XT3,1XT3_1,Cytotoxin 3,Naja atra,,,60,X-RAY DIFFRACTION,2.4
+3FTx,Three_finger_toxin,1YI5,1YI5_2,Long neurotoxin 1,Naja siamensis,,,71,X-RAY DIFFRACTION,4.2
+3FTx,Three_finger_toxin,1ZAD,1ZAD_1,Cytotoxin 1,Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,2ABX,2ABX_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,2.5
+3FTx,Three_finger_toxin,2BHI,2BHI_1,CYTOTOXIN 3,Naja atra,,,60,X-RAY DIFFRACTION,2.31
+3FTx,Three_finger_toxin,2BTX,2BTX_1,ALPHA-BUNGAROTOXIN,Bungarus multicinctus,,,74,SOLUTION NMR,
+3FTx,Three_finger_toxin,2CCX,2CCX_1,CARDIOTOXIN CTX IIB,Naja mossambica,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,2CDX,2CDX_1,CARDIOTOXIN CTX I,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,2CRS,2CRS_1,CARDIOTOXIN III,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,2CRT,2CRT_1,CARDIOTOXIN III,Naja atra,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,2CTX,2CTX_1,ALPHA-COBRATOXIN,Naja naja,,PF21947,71,X-RAY DIFFRACTION,2.4
+3FTx,Three_finger_toxin,2ERA,2ERA_1,ERABUTOXIN A,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.81
+3FTx,Three_finger_toxin,2H5F,2H5F_1,denmotoxin,Boiga dendrophila,,,77,X-RAY DIFFRACTION,1.9
+3FTx,Three_finger_toxin,2H7Z,2H7Z_1,Irditoxin subunit A,Boiga irregularis,,,75,X-RAY DIFFRACTION,1.5
+3FTx,Three_finger_toxin,2H7Z,2H7Z_2,Irditoxin subunit B,Boiga irregularis,,,77,X-RAY DIFFRACTION,1.5
+3FTx,Three_finger_toxin,2H8U,2H8U_1,Bucain,Bungarus candidus,,,65,X-RAY DIFFRACTION,2.1
+3FTx,Three_finger_toxin,2JQP,2JQP_1,Weak toxin 1,Bungarus candidus,,,65,SOLUTION NMR,
+3FTx,Three_finger_toxin,2LA1,2LA1_1,Mambin,Dendroaspis jamesoni kaimosae,,,59,SOLUTION NMR,
+3FTx,Three_finger_toxin,2MFA,2MFA_1,Mambalgin-2,Dendroaspis polylepis polylepis,,,57,SOLUTION NMR,
+3FTx,Three_finger_toxin,2MJ0,2MJ0_1,Weak tryptophan-containing neurotoxin,Naja kaouthia,,,66,SOLUTION NMR,
+3FTx,Three_finger_toxin,2MJ4,2MJ4_1,Short neurotoxin 1,Naja oxiana,,,61,SOLUTION NMR,
+3FTx,Three_finger_toxin,2MJY,2MJY_1,Mambalgin-1,Dendroaspis polylepis polylepis,,,57,SOLUTION NMR,
+3FTx,Three_finger_toxin,2NBT,2NBT_1,NEURONAL BUNGAROTOXIN,Bungarus multicinctus,,,66,SOLUTION NMR,
+3FTx,Three_finger_toxin,2QC1,2QC1_1,Alpha-bungarotoxin,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,1.94
+3FTx,Three_finger_toxin,2VLW,2VLW_1,MUSCARINIC M1-TOXIN1,Dendroaspis angusticeps,,,65,X-RAY DIFFRACTION,1.39
+3FTx,Three_finger_toxin,2X8B,2X8B_2,FASCICULIN-2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,2.95
+3FTx,Three_finger_toxin,3EBX,3EBX_1,ERABUTOXIN B,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.4
+3FTx,Three_finger_toxin,3ERA,3ERA_1,ERABUTOXIN A,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.7
+3FTx,Three_finger_toxin,3FEV,3FEV_1,"Fusion of Muscarinic toxin 1, Muscarinic m1-toxin1",Dendroaspis angusticeps,,,65,X-RAY DIFFRACTION,1.3
+3FTx,Three_finger_toxin,3HH7,3HH7_1,Muscarinic toxin-like protein 3 homolog,Ophiophagus hannah,,,65,X-RAY DIFFRACTION,1.55
+3FTx,Three_finger_toxin,3NDS,3NDS_1,Short neurotoxin 1,Naja pallida,,,62,X-RAY DIFFRACTION,1.2
+3FTx,Three_finger_toxin,3NEQ,3NEQ_1,Three-finger muscarinic toxin 7,Dendroaspis angusticeps; Dendroaspis angusticeps; Dendroaspis angusticeps,,,66,X-RAY DIFFRACTION,1.25
+3FTx,Three_finger_toxin,3PLC,3PLC_1,Beta-cardiotoxin OH-27,Ophiophagus hannah,,,63,X-RAY DIFFRACTION,2.41
+3FTx,Three_finger_toxin,3VTS,3VTS_1,Cytotoxin 1,Hemachatus haemachatus,,,61,X-RAY DIFFRACTION,2.426
+3FTx,Three_finger_toxin,4AEA,4AEA_1,LONG NEUROTOXIN 1,Naja kaouthia,,,71,X-RAY DIFFRACTION,1.94
+3FTx,Three_finger_toxin,4BDT,4BDT_2,FASCICULIN-2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,3.104
+3FTx,Three_finger_toxin,4DO8,4DO8_1,Muscarinic toxin 1,Dendroaspis angusticeps,,,66,X-RAY DIFFRACTION,1.802
+3FTx,Three_finger_toxin,4EY8,4EY8_2,Fasciculin-2,Dendroaspis angusticeps,,,61,X-RAY DIFFRACTION,2.5958
+3FTx,Three_finger_toxin,4HQP,4HQP_2,Alpha-bungarotoxin isoform V31,Bungarus multicinctus,,,73,X-RAY DIFFRACTION,3.51
+3FTx,Three_finger_toxin,4IYE,4IYE_1,Toxin AdTx1,Dendroaspis angusticeps,,,66,X-RAY DIFFRACTION,1.951
+3FTx,Three_finger_toxin,4LFT,4LFT_1,Alpha-elapitoxin-Dpp2a,Dendroaspis polylepis polylepis,,,73,X-RAY DIFFRACTION,1.7
+3FTx,Three_finger_toxin,4OM4,4OM4_1,Cytotoxin 2,Naja atra,,,60,X-RAY DIFFRACTION,2.74
+3FTx,Three_finger_toxin,4OM5,4OM5_1,Cytotoxin 4,Naja atra,,,60,X-RAY DIFFRACTION,2.55
+3FTx,Three_finger_toxin,4RUD,4RUD_1,Three-finger toxin 3b,Micrurus fulvius,,,58,X-RAY DIFFRACTION,1.95
+3FTx,Three_finger_toxin,4UY2,4UY2_2,ALPHA-BUNGAROTOXIN ISOFORM V31,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,2.697
+3FTx,Three_finger_toxin,4ZQY,4ZQY_1,Ringhalexin,Hemachatus haemachatus,,,65,X-RAY DIFFRACTION,2.9515
+3FTx,Three_finger_toxin,5DO6,5DO6_1,Mambalgin-1,Dendroaspis polylepis polylepis,,,57,X-RAY DIFFRACTION,1.697
+3FTx,Three_finger_toxin,5DU1,5DU1_1,Mambalgin-1,Dendroaspis polylepis polylepis,,,57,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,5DZ5,5DZ5_1,Mambalgin-1,Dendroaspis polylepis polylepis,,,57,X-RAY DIFFRACTION,1.95
+3FTx,Three_finger_toxin,5EBX,5EBX_1,ERABUTOXIN A,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,2.0
+3FTx,Three_finger_toxin,5HBT,5HBT_4,Alpha-bungarotoxin isoform V31,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,2.61
+3FTx,Three_finger_toxin,5HBV,5HBV_1,Alpha-bungarotoxin isoform V31,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,2.7
+3FTx,Three_finger_toxin,5LUE,5LUE_1,VC-1=CYTOTOXIN,Naja oxiana,,,61,SOLUTION NMR,
+3FTx,Three_finger_toxin,5MG9,5MG9_1,AncTx1-W28R/I38S,Dendroaspis angusticeps,,,65,X-RAY DIFFRACTION,1.801
+3FTx,Three_finger_toxin,5NPN,5NPN_1,Cytotoxin 1,Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,5NQ4,5NQ4_1,Cytotoxin 1,Naja oxiana,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,5T8A,5T8A_1,Cytotoxin 1,Naja oxiana,,,61,SOLUTION NMR,
+3FTx,Three_finger_toxin,5XWE,5XWE_1,Weak toxin DE-1 homolog 1,Ophiophagus hannah,,,83,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,6EBX,6EBX_1,ERABUTOXIN B,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,1.7
+3FTx,Three_finger_toxin,6PNW,6PNW_1,Erabutoxin c,Laticauda semifasciata,,,62,X-RAY DIFFRACTION,2.0
+3FTx,Three_finger_toxin,6R5M,6R5M_1,Dendroaspis polylepis MT9,Dendroaspis polylepis,,,57,X-RAY DIFFRACTION,1.9
+3FTx,Three_finger_toxin,6RC7,6RC7_1,Cytotoxin 3,Naja kaouthia,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,6UWZ,6UWZ_5,Alpha-bungarotoxin,Bungarus multicinctus,,,74,ELECTRON MICROSCOPY,2.69
+3FTx,Three_finger_toxin,6WJC,6WJC_2,Muscarinic toxin 7,Dendroaspis angusticeps,,,69,X-RAY DIFFRACTION,2.55
+3FTx,Three_finger_toxin,6ZFM,6ZFM_1,Alpha-cobratoxin,Naja kaouthia,,,71,X-RAY DIFFRACTION,1.9
+3FTx,Three_finger_toxin,7C28,7C28_1,Synergistic-type venom protein S2C4,Dendroaspis jamesoni kaimosae,,,65,X-RAY DIFFRACTION,2.4
+3FTx,Three_finger_toxin,7CFT,7CFT_2,Mambalgin-1,Dendroaspis polylepis polylepis,,,57,ELECTRON MICROSCOPY,3.9
+3FTx,Three_finger_toxin,7KOO,7KOO_2,Alpha-bungarotoxin isoform V31,Bungarus multicinctus,,,71,ELECTRON MICROSCOPY,3.0
+3FTx,Three_finger_toxin,7O2K,7O2K_1,Cytotoxin 2,Naja kaouthia,,,60,SOLUTION NMR,
+3FTx,Three_finger_toxin,7PC0,7PC0_5,Alpha-cobratoxin,Naja kaouthia,,,71,ELECTRON MICROSCOPY,3.0
+3FTx,Three_finger_toxin,7QFC,7QFC_1,Cytotoxin 13,Naja naja,,,60,X-RAY DIFFRACTION,2.6
+3FTx,Three_finger_toxin,7QHI,7QHI_1,Cytotoxin 13,Naja naja,,,60,X-RAY DIFFRACTION,2.302
+3FTx,Three_finger_toxin,7ULB,7ULB_1,Mambalgin-1,Dendroaspis polylepis polylepis,,,66,X-RAY DIFFRACTION,2.49
+3FTx,Three_finger_toxin,7ULG,7ULG_1,Alpha-cobratoxin,Naja kaouthia,,,72,X-RAY DIFFRACTION,1.57
+3FTx,Three_finger_toxin,7ULQ,7ULQ_1,Long neurotoxin OH-55,Ophiophagus hannah,,,73,X-RAY DIFFRACTION,2.2
+3FTx,Three_finger_toxin,7ULR,7ULR_1,Kappa-bungarotoxin,Bungarus multicinctus,,,67,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,7ULS,7ULS_1,Muscarinic toxin alpha,Dendroaspis polylepis polylepis,,,67,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,8D9Y,8D9Y_3,Long neurotoxin 1,Oxyuranus scutellatus scutellatus,,,71,X-RAY DIFFRACTION,2.2
+3FTx,Three_finger_toxin,8D9Z,8D9Z_3,Long neurotoxin 1,Naja nivea,,,77,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,8DA0,8DA0_3,Alpha-elapitoxin-Dpp2d,Dendroaspis polylepis polylepis,,,72,X-RAY DIFFRACTION,2.2
+3FTx,Three_finger_toxin,8DA1,8DA1_3,Alpha-bungarotoxin,Bungarus multicinctus,,,74,X-RAY DIFFRACTION,2.67
+3FTx,Three_finger_toxin,8HN1,8HN1_1,Toxin AdTx1,Dendroaspis angusticeps,,,71,ELECTRON MICROSCOPY,2.9
+3FTx,Three_finger_toxin,8R4N,8R4N_3,Short neurotoxin 1,Dendroaspis polylepis,,,67,X-RAY DIFFRACTION,2.2
+3FTx,Three_finger_toxin,8SXP,8SXP_2,Long neurotoxin 2,Ophiophagus hannah,,,68,X-RAY DIFFRACTION,2.9
+3FTx,Three_finger_toxin,8V13,8V13_3,Short neurotoxin 1,Dendroaspis polylepis polylepis,,,60,X-RAY DIFFRACTION,1.8
+3FTx,Three_finger_toxin,8VY8,8VY8_1,Alpha-bungarotoxin isoform V31,Bungarus multicinctus,,,76,X-RAY DIFFRACTION,2.4
+3FTx,Three_finger_toxin,8WE7,8WE7_4,Calciseptin,Dendroaspis polylepis polylepis,,,60,ELECTRON MICROSCOPY,3.2
+3FTx,Three_finger_toxin,8WE8,8WE8_4,Calciseptin,Dendroaspis polylepis polylepis,,,60,ELECTRON MICROSCOPY,2.9
+3FTx,Three_finger_toxin,8YQN,8YQN_5,Erabutoxin a,Laticauda semifasciata,,,62,ELECTRON MICROSCOPY,2.27
+3FTx,Three_finger_toxin,9BK5,9BK5_2,Alpha-cobratoxin,Naja kaouthia,,,71,X-RAY DIFFRACTION,2.68
+3FTx,Three_finger_toxin,9BK6,9BK6_2,Cytotoxin 1,Naja pallida,,,60,X-RAY DIFFRACTION,2.0
+3FTx,Three_finger_toxin,9FYS,9FYS_2,Alpha-bungarotoxin,Bungarus multicinctus,,,95,X-RAY DIFFRACTION,1.32
+3FTx,Three_finger_toxin,9FYT,9FYT_1,Alpha-cobratoxin,Naja kaouthia,,,71,X-RAY DIFFRACTION,1.55
+3FTx,Three_finger_toxin,9GCN,9GCN_2,Alpha-cobratoxin,Naja kaouthia,,,71,X-RAY DIFFRACTION,3.0
+3FTx,Three_finger_toxin,9GU0,9GU0_7,Alpha-bungarotoxin,Bungarus multicinctus,,,74,ELECTRON MICROSCOPY,2.96
+3FTx,Three_finger_toxin,9GU1,9GU1_7,Alpha-bungarotoxin,Bungarus multicinctus,,,74,ELECTRON MICROSCOPY,2.48
+3FTx,Three_finger_toxin,9HUB,9HUB_2,Alpha-bungarotoxin,Bungarus multicinctus,,,95,X-RAY DIFFRACTION,1.33
+3FTx,Three_finger_toxin,9HUO,9HUO_1,Alpha-cobratoxin,Naja kaouthia,,,71,X-RAY DIFFRACTION,1.6
+3FTx,Three_finger_toxin,9HXO,9HXO_1,Alpha-cobratoxin,Naja kaouthia,,,71,X-RAY DIFFRACTION,1.49
+3FTx,Three_finger_toxin,9IQR,9IQR_1,Muscarinic toxin 3,Dendroaspis angusticeps,,,65,ELECTRON MICROSCOPY,3.4
+3FTx,Three_finger_toxin,9IQS,9IQS_1,Muscarinic toxin 3,Dendroaspis angusticeps,,,65,ELECTRON MICROSCOPY,3.6
+3FTx,Three_finger_toxin,9IQV,9IQV_1,Muscarinic toxin 3,Dendroaspis angusticeps,,,65,ELECTRON MICROSCOPY,3.3
+3FTx,Three_finger_toxin,9PN4,9PN4_1,Neurotoxin Oh9-1,Ophiophagus hannah,,,58,X-RAY DIFFRACTION,3.1
+3FTx,Three_finger_toxin,9RIU,9RIU_2,Short neurotoxin 1,Naja pallida,,,61,X-RAY DIFFRACTION,2.5
+3FTx,Three_finger_toxin,9S9E,9S9E_2,Cytotoxin 1,Naja pallida,,,60,X-RAY DIFFRACTION,1.31
+3FTx,Three_finger_toxin,9S9F,9S9F_1,Cytotoxin 1,Naja pallida,,,60,X-RAY DIFFRACTION,1.07
+SVMP,Snake_venom_metalloproteinase,1ATL,1ATL_1,Snake venom metalloproteinase atrolysin-D,Crotalus atrox,3.4.24.42,,202,X-RAY DIFFRACTION,1.8
+SVMP,Snake_venom_metalloproteinase,1BSW,1BSW_1,PROTEIN (ACUTOLYSIN A),Deinagkistrodon acutus,,,197,X-RAY DIFFRACTION,1.95
+SVMP,Snake_venom_metalloproteinase,1BUD,1BUD_1,PROTEIN (ACUTOLYSIN A),Deinagkistrodon acutus,,,197,X-RAY DIFFRACTION,1.9
+SVMP,Snake_venom_metalloproteinase,1DTH,1DTH_1,ATROLYSIN C,Crotalus atrox,3.4.24.42,,203,X-RAY DIFFRACTION,2.0
+SVMP,Snake_venom_metalloproteinase,1FVL,1FVL_1,FLAVORIDIN,Protobothrops flavoviridis,,,70,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,1HTD,1HTD_1,ATROLYSIN C,Crotalus atrox,3.4.24.42,,202,X-RAY DIFFRACTION,2.1
+SVMP,Snake_venom_metalloproteinase,1IAG,1IAG_1,ADAMALYSIN II,Crotalus adamanteus,3.4.24.46,,202,X-RAY DIFFRACTION,2.0
+SVMP,Snake_venom_metalloproteinase,1KUF,1KUF_1,metalloproteinase,Protobothrops mucrosquamatus,3.4.24.44,,203,X-RAY DIFFRACTION,1.35
+SVMP,Snake_venom_metalloproteinase,1KUG,1KUG_1,metalloproteinase,Protobothrops mucrosquamatus,3.4.24.44,,203,X-RAY DIFFRACTION,1.37
+SVMP,Snake_venom_metalloproteinase,1KUI,1KUI_1,metalloproteinase,Protobothrops mucrosquamatus,3.4.24.44,,203,X-RAY DIFFRACTION,1.5
+SVMP,Snake_venom_metalloproteinase,1KUK,1KUK_1,metalloproteinase,Protobothrops mucrosquamatus,3.4.24.44,,203,X-RAY DIFFRACTION,1.45
+SVMP,Snake_venom_metalloproteinase,1L3X,1L3X_1,platelet aggregation inhibitor disintegrin,Gloydius brevicauda,,,73,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,1N4Y,1N4Y_1,KISTRIN,Calloselasma rhodostoma,,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,1ND1,1ND1_1,BaP1,Bothrops asper,,,202,X-RAY DIFFRACTION,1.93
+SVMP,Snake_venom_metalloproteinase,1Q7I,1Q7I_1,Hemorrhagic protein-rhodostomin,Calloselasma rhodostoma,3.4.24,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,1Q7J,1Q7J_1,Hemorrhagic protein-rhodostomin,Calloselasma rhodostoma,3.4.24,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,1QUA,1QUA_1,ACUTOLYSIN-C,Deinagkistrodon acutus,,,197,X-RAY DIFFRACTION,2.2
+SVMP,Snake_venom_metalloproteinase,1RO3,1RO3_1,Disintegrin echistatin,Echis carinatus,,,49,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,1WNI,1WNI_1,Trimerelysin II,Protobothrops flavoviridis,3.4.24.53,,201,X-RAY DIFFRACTION,2.2
+SVMP,Snake_venom_metalloproteinase,26QZ,26QZ_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,1.804
+SVMP,Snake_venom_metalloproteinase,2AIG,2AIG_1,ADAMALYSIN II,Crotalus adamanteus,3.4.24.46,,202,X-RAY DIFFRACTION,2.6
+SVMP,Snake_venom_metalloproteinase,2DW0,2DW0_1,Catrocollastatin,Crotalus atrox,,,419,X-RAY DIFFRACTION,2.15
+SVMP,Snake_venom_metalloproteinase,2DW1,2DW1_1,Catrocollastatin,Crotalus atrox,,,419,X-RAY DIFFRACTION,2.5
+SVMP,Snake_venom_metalloproteinase,2DW2,2DW2_1,Catrocollastatin,Crotalus atrox,,,419,X-RAY DIFFRACTION,2.7
+SVMP,Snake_venom_metalloproteinase,2E3X,2E3X_1,Coagulation factor X-activating enzyme heavy chain,Daboia siamensis,3.4.24.58,,427,X-RAY DIFFRACTION,2.91
+SVMP,Snake_venom_metalloproteinase,2ECH,2ECH_1,ECHISTATIN,Echis carinatus,,,50,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2ERO,2ERO_1,vascular apoptosis-inducing protein 1,Crotalus atrox,,,427,X-RAY DIFFRACTION,2.5
+SVMP,Snake_venom_metalloproteinase,2ERP,2ERP_1,vascular apoptosis-inducing protein 1,Crotalus atrox,,,427,X-RAY DIFFRACTION,2.95
+SVMP,Snake_venom_metalloproteinase,2ERQ,2ERQ_1,vascular apoptosis-inducing protein 1,Crotalus atrox,,,427,X-RAY DIFFRACTION,2.5
+SVMP,Snake_venom_metalloproteinase,2LJV,2LJV_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2M75,2M75_1,Zinc metalloproteinase/disintegrin,Calloselasma rhodostoma,3.4.24,,76,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2M7F,2M7F_1,Zinc metalloproteinase/disintegrin,Calloselasma rhodostoma,3.4.24,,79,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2M7H,2M7H_1,Zinc metalloproteinase/disintegrin,Calloselasma rhodostoma,3.4.24,,79,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2PJF,2PJF_1,Rhodostoxin-disintegrin rhodostomin,Calloselasma rhodostoma,3.4.24,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2PJG,2PJG_1,Rhodostoxin-disintegrin rhodostomin,Calloselasma rhodostoma,3.4.24,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2PJI,2PJI_1,Rhodostoxin-disintegrin rhodostomin,Calloselasma rhodostoma,3.4.24,,68,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,2W12,2W12_1,ZINC METALLOPROTEINASE BAP1,Bothrops asper,3.4.24,,202,X-RAY DIFFRACTION,1.46
+SVMP,Snake_venom_metalloproteinase,2W13,2W13_1,ZINC METALLOPROTEINASE BAP1,Bothrops asper,3.4.24,,202,X-RAY DIFFRACTION,1.14
+SVMP,Snake_venom_metalloproteinase,2W14,2W14_1,ZINC METALLOPROTEINASE BAP1,Bothrops asper,3.4.24,,202,X-RAY DIFFRACTION,1.08
+SVMP,Snake_venom_metalloproteinase,2W15,2W15_1,ZINC METALLOPROTEINASE BAP1,Bothrops asper,3.4.24,,202,X-RAY DIFFRACTION,1.05
+SVMP,Snake_venom_metalloproteinase,3AIG,3AIG_1,ADAMALYSIN II,Crotalus adamanteus,3.4.24.46,,202,X-RAY DIFFRACTION,2.8
+SVMP,Snake_venom_metalloproteinase,3C05,3C05_2,Disintegrin acostatin-beta,Agkistrodon contortrix contortrix,,,64,X-RAY DIFFRACTION,1.7
+SVMP,Snake_venom_metalloproteinase,3DSL,3DSL_1,Zinc metalloproteinase-disintegrin bothropasin,Bothrops jararaca,3.4.24.49,,419,X-RAY DIFFRACTION,2.7
+SVMP,Snake_venom_metalloproteinase,3GBO,3GBO_1,Zinc metalloproteinase BmooMPalfa-I,Bothrops moojeni,3.4.24,,200,X-RAY DIFFRACTION,1.77
+SVMP,Snake_venom_metalloproteinase,3K7L,3K7L_1,Atragin,Naja atra,,,422,X-RAY DIFFRACTION,2.5
+SVMP,Snake_venom_metalloproteinase,3K7N,3K7N_1,K-like,Naja atra,,,397,X-RAY DIFFRACTION,2.3
+SVMP,Snake_venom_metalloproteinase,3UCI,3UCI_1,disintegrin,Calloselasma rhodostoma,,,72,X-RAY DIFFRACTION,1.35
+SVMP,Snake_venom_metalloproteinase,4AIG,4AIG_1,ADAMALYSIN II,Crotalus adamanteus,3.4.24.46,,201,X-RAY DIFFRACTION,2.0
+SVMP,Snake_venom_metalloproteinase,4J4M,4J4M_1,zinc-dependent metalloproteinase,Protobothrops mucrosquamatus,3.4.24.53,,202,X-RAY DIFFRACTION,1.8
+SVMP,Snake_venom_metalloproteinase,4Q1L,4Q1L_1,Snake venom metalloproteinase leucurolysin-A,Bothrops leucurus,3.4.24,,202,X-RAY DIFFRACTION,1.9
+SVMP,Snake_venom_metalloproteinase,4R5R,4R5R_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,0.96
+SVMP,Snake_venom_metalloproteinase,4R5U,4R5U_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,1.81
+SVMP,Snake_venom_metalloproteinase,4RQG,4RQG_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,1.66
+SVMP,Snake_venom_metalloproteinase,6LSQ,6LSQ_1,Disintegrin,Echis carinatus,,,51,X-RAY DIFFRACTION,1.8
+SVMP,Snake_venom_metalloproteinase,6X5X,6X5X_1,Snake venom metalloproteinase BmooMP-I,Bothrops moojeni,,,200,X-RAY DIFFRACTION,1.92
+SVMP,Snake_venom_metalloproteinase,7X4S,7X4S_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,1.8
+SVMP,Snake_venom_metalloproteinase,7X4V,7X4V_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,1.38
+SVMP,Snake_venom_metalloproteinase,7X4Z,7X4Z_1,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,X-RAY DIFFRACTION,1.48
+SVMP,Snake_venom_metalloproteinase,8S9E,8S9E_1,Disintegrin jarastatin,Bothrops jararaca,,,73,SOLUTION NMR,
+SVMP,Snake_venom_metalloproteinase,9CLP,9CLP_1,Zinc metalloproteinase-disintegrin-like ecarin,Echis carinatus,3.4.24,,426,ELECTRON MICROSCOPY,3.43
+SVMP,Snake_venom_metalloproteinase,9IUJ,9IUJ_3,Disintegrin rhodostomin,Calloselasma rhodostoma,,,68,ELECTRON MICROSCOPY,2.78
+SVMP,Snake_venom_metalloproteinase,9JEI,9JEI_3,Metalloproteinase,Echis carinatus,,,49,ELECTRON MICROSCOPY,3.16
+SVMP,Snake_venom_metalloproteinase,9LT3,9LT3_3,Zinc metalloproteinase/disintegrin PMMP-2,Protobothrops mucrosquamatus,,,73,ELECTRON MICROSCOPY,2.79
+SVMP,Snake_venom_metalloproteinase,9UAL,9UAL_1,Zinc metalloproteinase/disintegrin PMMP-2,Protobothrops mucrosquamatus,,,73,X-RAY DIFFRACTION,1.68
+serine,Snake_venom_serine_protease,1BQY,1BQY_1,PLASMINOGEN ACTIVATOR,Trimeresurus stejnegeri,,,234,X-RAY DIFFRACTION,2.5
+serine,Snake_venom_serine_protease,1OP0,1OP0_1,Venom serine proteinase,Deinagkistrodon acutus,3.4.21,,234,X-RAY DIFFRACTION,2.0
+serine,Snake_venom_serine_protease,1OP2,1OP2_1,Venom serine proteinase,Deinagkistrodon acutus,3.4.21,,234,X-RAY DIFFRACTION,2.1
+serine,Snake_venom_serine_protease,2AIP,2AIP_1,Protein C activator,Agkistrodon contortrix contortrix,3.4.21.74,,231,X-RAY DIFFRACTION,1.65
+serine,Snake_venom_serine_protease,2AIQ,2AIQ_1,Protein C activator,Agkistrodon contortrix contortrix,3.4.21.74,,231,X-RAY DIFFRACTION,1.54
+serine,Snake_venom_serine_protease,3S69,3S69_1,Thrombin-like enzyme defibrase,Gloydius intermedius,3.4.21,,234,X-RAY DIFFRACTION,1.43
+serine,Snake_venom_serine_protease,3S9A,3S9A_1,Vipera russelli proteinase RVV-V gamma,Daboia siamensis,3.4.21.95,,234,X-RAY DIFFRACTION,1.9
+serine,Snake_venom_serine_protease,3S9B,3S9B_1,Vipera russelli proteinase RVV-V gamma,Daboia siamensis,3.4.21.95,,234,X-RAY DIFFRACTION,1.9
+serine,Snake_venom_serine_protease,3S9C,3S9C_1,Vipera russelli proteinase RVV-V gamma,Daboia siamensis,3.4.21.95,,234,X-RAY DIFFRACTION,1.8
+serine,Snake_venom_serine_protease,3SBK,3SBK_1,Vipera russelli proteinase RVV-V gamma,Daboia siamensis,3.4.21.95,,234,X-RAY DIFFRACTION,2.55
+serine,Snake_venom_serine_protease,4BXS,4BXS_1,FACTOR X-LIKE PROTEASE,Pseudonaja textilis,,PF14670,423,X-RAY DIFFRACTION,3.32
+serine,Snake_venom_serine_protease,4BXW,4BXW_1,FACTOR XA,Pseudonaja textilis,,PF14670;PF00089,423,X-RAY DIFFRACTION,2.71
+serine,Snake_venom_serine_protease,4E7N,4E7N_1,Snake-venom Thrombin-like Enzyme,Gloydius halys,3.4.21,,238,X-RAY DIFFRACTION,1.75
+serine,Snake_venom_serine_protease,4GSO,4GSO_1,Thrombin-like enzyme BjussuSP-1,Bothrops jararacussu,3.4.21,,232,X-RAY DIFFRACTION,2.6
+serine,Snake_venom_serine_protease,5XRF,5XRF_1,Snake venom serine protease Da-36,Deinagkistrodon acutus,,,242,X-RAY DIFFRACTION,2.2
+kunitz,Kunitz_type,1BF0,1BF0_1,CALCICLUDINE,Dendroaspis angusticeps,,,60,SOLUTION NMR,
+kunitz,Kunitz_type,1BUN,1BUN_2,BETA2-BUNGAROTOXIN,Bungarus multicinctus,3.1.1.4,,61,X-RAY DIFFRACTION,2.45
+kunitz,Kunitz_type,1DEM,1DEM_1,DENDROTOXIN I,Dendroaspis polylepis polylepis,,,60,SOLUTION NMR,
+kunitz,Kunitz_type,1DEN,1DEN_1,DENDROTOXIN I,Dendroaspis polylepis polylepis,,,60,SOLUTION NMR,
+kunitz,Kunitz_type,1DTK,1DTK_1,DENDROTOXIN K,Dendroaspis polylepis polylepis,,,57,SOLUTION NMR,
+kunitz,Kunitz_type,1DTX,1DTX_1,ALPHA-DENDROTOXIN,Dendroaspis angusticeps,,,59,X-RAY DIFFRACTION,2.2
+kunitz,Kunitz_type,1JC6,1JC6_1,VENOM BASIC PROTEASE INHIBITORS IX AND VIIIB,Bungarus fasciatus,,,65,SOLUTION NMR,
+kunitz,Kunitz_type,2M99,2M99_1,Protease inhibitor NACI,Naja atra,,,57,SOLUTION NMR,
+kunitz,Kunitz_type,3BYB,3BYB_1,Textilinin,Pseudonaja textilis textilis,,,59,X-RAY DIFFRACTION,1.63
+kunitz,Kunitz_type,3D65,3D65_1,Textilinin,Pseudonaja textilis textilis,,,57,X-RAY DIFFRACTION,1.64
+kunitz,Kunitz_type,3UIR,3UIR_2,Textilinin-1,Pseudonaja textilis textilis,,,59,X-RAY DIFFRACTION,2.777
+kunitz,Kunitz_type,4NTW,4NTW_2,Neurotoxin MitTx-alpha,Micrurus tener tener,,,60,X-RAY DIFFRACTION,2.07
+kunitz,Kunitz_type,4NTX,4NTX_2,Neurotoxin MitTx-alpha,Micrurus tener tener,,,60,X-RAY DIFFRACTION,2.27
+kunitz,Kunitz_type,4NTY,4NTY_2,Neurotoxin MitTx-alpha,Micrurus tener tener,,,60,X-RAY DIFFRACTION,2.65
+kunitz,Kunitz_type,5M4V,5M4V_1,Mambaquaretin-1,Dendroaspis angusticeps,,,57,X-RAY DIFFRACTION,1.06
+kunitz,Kunitz_type,5YV7,5YV7_1,Kunitz-type serine protease inhibitor homolog calcicludine,Dendroaspis angusticeps,,,60,X-RAY DIFFRACTION,2.395
+kunitz,Kunitz_type,5ZJ3,5ZJ3_1,Kunitz-type serine protease inhibitor textilinin-1,Pseudonaja textilis textilis,,,59,X-RAY DIFFRACTION,1.88
+kunitz,Kunitz_type,6A5I,6A5I_1,Trypsin Inhibitor,Pseudocerastes persicus,,,68,SOLUTION NMR,
+kunitz,Kunitz_type,6KZF,6KZF_1,Kunitz-type serine protease inhibitor homolog calcicludine,Dendroaspis angusticeps,,,60,X-RAY DIFFRACTION,2.52
+kunitz,Kunitz_type,6KZF,6KZF_2,D-calcicludine,Dendroaspis angusticeps,,,60,X-RAY DIFFRACTION,2.52
+kunitz,Kunitz_type,8VC3,8VC3_1,Kunitz-type serine protease inhibitor homolog alpha-dendrotoxin,Dendroaspis angusticeps,,,59,ELECTRON MICROSCOPY,3.2
+kunitz,Kunitz_type,9E4I,9E4I_2,Kunitz-type neurotoxin MitTx-alpha,Micrurus tener tener,,,60,ELECTRON MICROSCOPY,2.33
+kunitz,Kunitz_type,9E4J,9E4J_2,Kunitz-type neurotoxin MitTx-alpha,Micrurus tener tener,,,60,ELECTRON MICROSCOPY,2.87
+kunitz,Kunitz_type,9HB3,9HB3_1,Mambaquaretin-1,Dendroaspis angusticeps,,,57,ELECTRON MICROSCOPY,2.5
